@@ -1,0 +1,9 @@
+[Unit]
+Description=MyFirstApp123
+
+[Service]
+WorkingDirectory=/home/azureuser/MyApp
+ExecStart=dotnet /home/azureuser/MyApp/MyFirstApp123.dll
+
+[Install]
+WantedBy=multi-user.target
