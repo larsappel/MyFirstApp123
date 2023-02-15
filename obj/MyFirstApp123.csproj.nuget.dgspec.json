@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lasse/Development/CLO22 Development/MyFirstApp123/MyFirstApp123.csproj": {}
+    "/Users/lasse/Development/TaBort/MyFirstApp123/MyFirstApp123.csproj": {}
   },
   "projects": {
-    "/Users/lasse/Development/CLO22 Development/MyFirstApp123/MyFirstApp123.csproj": {
+    "/Users/lasse/Development/TaBort/MyFirstApp123/MyFirstApp123.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lasse/Development/CLO22 Development/MyFirstApp123/MyFirstApp123.csproj",
+        "projectUniqueName": "/Users/lasse/Development/TaBort/MyFirstApp123/MyFirstApp123.csproj",
         "projectName": "MyFirstApp123",
-        "projectPath": "/Users/lasse/Development/CLO22 Development/MyFirstApp123/MyFirstApp123.csproj",
+        "projectPath": "/Users/lasse/Development/TaBort/MyFirstApp123/MyFirstApp123.csproj",
         "packagesPath": "/Users/lasse/.nuget/packages/",
-        "outputPath": "/Users/lasse/Development/CLO22 Development/MyFirstApp123/obj/",
+        "outputPath": "/Users/lasse/Development/TaBort/MyFirstApp123/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lasse/.nuget/NuGet/NuGet.Config"

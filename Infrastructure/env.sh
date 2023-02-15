@@ -1,9 +1,9 @@
 #!/bin/bash
 
-export IP='20.13.161.130'
+export IP='20.93.19.252'
 export USR='azureuser'
-export KEY='/Users/lasse/.ssh/1676503960_818153'
-export SERVER_NAME='AppServer'
+export KEY='/Users/lasse/Downloads/App_key.pem'
+export SERVER_NAME='App'
 export RESOURCE_GRP='App'
 
 export APP_NAME='MyFirstApp123'
