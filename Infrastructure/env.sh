@@ -1,10 +1,10 @@
 #!/bin/bash
 
-export IP='20.93.21.22'
+export IP='20.93.16.58'
 export USR='azureuser'
 export KEY='~/Downloads/DemoServer_key.pem'
-export TARGET_DIR='~/MyApp'
 export APP_NAME='MyFirstApp123'
-export SERVER_NAME='MyApp'
+export TARGET_DIR="/opt/$APP_NAME"
+export SERVER_NAME='Demo'
 export RESOURCE_GRP='Demo'
 export PORT='5000'
