@@ -1,7 +1,0 @@
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/MyFirstApp123
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/appsettings.Development.json
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/appsettings.json
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/MyFirstApp123.dll
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/MyFirstApp123.deps.json
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/MyFirstApp123.runtimeconfig.json
-/Users/lasse/Development/TaBort/MyFirstApp123/bin/Debug/net6.0/publish/MyFirstApp123.pdb
